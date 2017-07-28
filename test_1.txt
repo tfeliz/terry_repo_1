@@ -11,3 +11,5 @@ terry 2 - branch
 git_2 cloned
 
 git1 modified
+
+git1 created new branch locally
