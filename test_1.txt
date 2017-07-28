@@ -7,3 +7,5 @@ fsd
 
 terry 1
 terry 2 - branch
+
+git_2 cloned
